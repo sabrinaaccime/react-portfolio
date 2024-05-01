@@ -1,32 +1,32 @@
 {
     "projects": [
         {
-            "name": "Consortium For Wildlife Bycatch Reduction",
+            "name": "consortium for wildlife bycatch reduction",
             "roles": [
-                "Frontend developer",
-                "Backened Developer",
-                "Web Designer"
+                "frontend developer",
+                "backened developer",
+                "web designer"
             ],
             "techStack": [
-                "Drupal",
-                "HTML",
-                "CSS",
-                "SaSS",
-                "Figma",
-                "Git"
+                "drupal",
+                "html",
+                "css",
+                "sass",
+                "figma",
+                "git"
             ]
         },
         {
-            "name": "Better Care Network",
+            "name": "better care network",
             "roles": [
-                "Frontend developer"
+                "frontend developer"
             ],
             "techStack": [
-                "Drupal",
-                "HTML",
-                "CSS",
-                "SaSS",
-                "Git"
+                "drupal",
+                "html",
+                "css",
+                "sass",
+                "git"
             ]
         }
     ]
